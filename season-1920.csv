@@ -1,0 +1,381 @@
+﻿HomeTeam,Date,AwayTeam
+Liverpool,09/08/2019,Norwich
+Bournemouth,10/08/2019,Sheffield
+Burnley,10/08/2019,Southampton
+Crystal Palace,10/08/2019,Everton
+Leicester,10/08/2019,Wolves
+Tottenham,10/08/2019,Aston Villa
+Watford,10/08/2019,Brighton
+West Ham,10/08/2019,Man City
+Man United,11/08/2019,Chelsea
+Newcastle,11/08/2019,Arsenal
+Arsenal,17/08/2019,Burnley
+Aston Villa,17/08/2019,Bournemouth
+Brighton,17/08/2019,West Ham
+Chelsea,17/08/2019,Leicester
+Everton,17/08/2019,Watford
+Man City,17/08/2019,Tottenham
+Norwich,17/08/2019,Newcastle
+Sheffield,17/08/2019,Crystal Palace
+Southampton,17/08/2019,Liverpool
+Wolves,17/08/2019,Man United
+Aston Villa,24/08/2019,Everton
+Bournemouth,24/08/2019,Man City
+Brighton,24/08/2019,Southampton
+Liverpool,24/08/2019,Arsenal
+Man United,24/08/2019,Crystal Palace
+Norwich ,24/08/2019,Chelsea
+Sheffield,24/08/2019,Leicester
+Tottenham,24/08/2019,Newcastle
+Watford,24/08/2019,West Ham
+Wolves,24/08/2019,Burnley
+Arsenal,31/08/2019,Tottenham
+Burnley,31/08/2019,Liverpool
+Chelsea,31/08/2019,Sheffield
+Crystal Palace,31/08/2019,Aston Villa
+Everton,31/08/2019,Wolves
+Leicester,31/08/2019,Bournemouth
+Man City,31/08/2019,Brighton
+Newcastle,31/08/2019,Watford
+Southampton,31/08/2019,Man United
+West Ham,31/08/2019,Norwich
+Aston Villa,14/09/2019,West Ham
+Bournemouth,14/09/2019,Everton
+Brighton,14/09/2019,Burnley
+Liverpool,14/09/2019,Newcastle
+Man United,14/09/2019,Leicester
+Norwich,14/09/2019,Man City
+Sheffield,14/09/2019,Southampton
+Tottenham,14/09/2019,Crystal Palace
+Watford,14/09/2019,Arsenal
+Wolves,14/09/2019,Chelsea
+Arsenal,21/09/2019,Aston Villa
+Burnley,21/09/2019,Norwich
+Chelsea,21/09/2019,Liverpool
+Crystal Palace,21/09/2019,Wolves
+Everton,21/09/2019,Sheffield
+Leicester,21/09/2019,Tottenham
+Man City,21/09/2019,Watford
+Newcastle,21/09/2019,Brighton
+Southampton,21/09/2019,Bournemouth
+West Ham,21/09/2019,Man United
+Aston Villa,28/09/2019,Burnley
+Bournemouth,28/09/2019,West Ham
+Chelsea,28/09/2019,Brighton
+Crystal Palace,28/09/2019,Norwich
+Everton,28/09/2019,Man City
+Leicester,28/09/2019,Newcastle
+Man,28/09/2019,Arsenal
+Sheffield,28/09/2019,Liverpool
+Tottenham,28/09/2019,Southampton
+Wolves,28/09/2019,Watford
+Arsenal,05/10/2019,Bournemouth
+Brighton,05/10/2019,Tottenham
+Burnley,05/10/2019,Everton
+Liverpool,05/10/2019,Leicester
+Man City,05/10/2019,Wolves
+Newcastle,05/10/2019,Man United
+Norwich,05/10/2019,Aston Villa
+Southampton,05/10/2019,Chelsea
+Watford,05/10/2019,Sheffield
+West Ham,05/10/2019,Crystal Palace
+Aston Villa,19/10/2019,Brighton
+Bournemouth,19/10/2019,Norwich
+Chelsea,19/10/2019,Newcastle
+Crystal Palace,19/10/2019,Man City
+Everton,19/10/2019,West Ham
+Leicester,19/10/2019,Burnley
+Man United,19/10/2019,Liverpool
+Sheffield,19/10/2019,Arsenal
+Tottenham,19/10/2019,Watford
+Wolves,19/10/2019,Southampton
+Arsenal,26/10/2019,Crystal Palace
+Brighton,26/10/2019,Everton
+Burnley,26/10/2019,Chelsea
+Liverpool,26/10/2019,Tottenham
+Manchester City,26/10/2019,Aston Villa
+Newcastle,26/10/2019,Wolves
+Norwich,26/10/2019,Man United
+Southampton,26/10/2019,Leicester
+Watford,26/10/2019,Bournemouth
+West Ham,26/10/2019,Sheffield
+Arsenal,02/11/2019,Wolves
+Aston Villa,02/11/2019,Liverpool
+Bournemouth,02/11/2019,Man United
+Brighton,02/11/2019,Norwich
+Crystal Palace,02/11/2019,Leicester
+Everton,02/11/2019,Tottenham
+Man City,02/11/2019,Southampton
+Sheffield,02/11/2019,Burnley
+Watford,02/11/2019,Chelsea
+West Ham,02/11/2019,Newcastle
+Burnley,09/11/2019,West Ham
+Chelsea,09/11/2019,Crystal Palace
+Leicester,09/11/2019,Arsenal
+Liverpool,09/11/2019,Man City
+Man United,09/11/2019,Brighton
+Newcastle,09/11/2019,Bournemouth
+Norwich,09/11/2019,Watford
+Southampton,09/11/2019,Everton
+Tottenham,09/11/2019,Sheffield
+Wolves,09/11/2019,Aston Villa
+Arsenal,23/11/2019,Southampton
+Aston Villa,23/11/2019,Newcastle
+Bournemouth,23/11/2019,Wolves
+Brighton,23/11/2019,Leicester
+Crystal Palace,23/11/2019,Liverpool
+Everton,23/11/2019,Norwich
+Man City,23/11/2019,Chelsea
+Sheffield,23/11/2019,Man United
+Watford,23/11/2019,Burnley
+West Ham,23/11/2019,Tottenham
+Burnley,30/11/2019,Crystal Palace
+Chelsea,30/11/2019,West Ham
+Leicester City,30/11/2019,Everton
+Liverpool,30/11/2019,Brighton
+Man United,30/11/2019,Aston Villa
+Newcastle,30/11/2019,Man City
+Norwich City,30/11/2019,Arsenal
+Southampton,30/11/2019,Watford
+Tottenham Hotspur,30/11/2019,Bournemouth
+Wolves,30/11/2019,Sheffield
+Arsenal,03/12/2019,Brighton
+Burnley,03/12/2019,Man City
+Leicester,03/12/2019,Watford
+Man United,03/12/2019,Tottenham
+Sheffield,03/12/2019,Newcastle
+Wolves,03/12/2019,West Ham
+Chelsea,04/12/2019,Aston Villa
+Crystal Palace,04/12/2019,Bournemouth
+Liverpool,04/12/2019,Everton
+Southampton,04/12/2019,Norwich
+Aston Villa,07/12/2019,Leicester
+Bournemouth,07/12/2019,Liverpool
+Brighton,07/12/2019,Wolves
+Everton,07/12/2019,Chelsea
+Man City,07/12/2019,Man United
+Newcastle,07/12/2019,Southampton
+Norwich,07/12/2019,Sheffield
+Tottenham,07/12/2019,Burnley
+Watford,07/12/2019,Crystal Palace
+West Ham,07/12/2019,Arsenal
+Arsenal,14/12/2019,Man City
+Burnley,14/12/2019,Newcastle
+Chelsea,14/12/2019,Bournemouth
+Crystal Palace,14/12/2019,Brighton
+Leicester,14/12/2019,Norwich
+Liverpool,14/12/2019,Watford
+Man United,14/12/2019,Everton
+Sheffield United,14/12/2019,Aston Villa
+Southampton,14/12/2019,West Ham
+Wolves,14/12/2019,Tottenham
+Aston Villa,21/12/2019,Southampton
+Bournemouth,21/12/2019,Burnley
+Brighton,21/12/2019,Sheffield
+Everton,21/12/2019,Arsenal
+Man City,21/12/2019,Leicester
+Newcastle,21/12/2019,Crystal Palace
+Norwich,21/12/2019,Wolves
+Tottenham,21/12/2019,Chelsea
+Watford,21/12/2019,Man United
+West Ham,21/12/2019,Liverpool
+Aston Villa,26/12/2019,Norwich
+Bournemouth,26/12/2019,Arsenal
+Chelsea,26/12/2019,Southampton
+Crystal Palace,26/12/2019,West Ham
+Everton,26/12/2019,Burnley
+Leicester,26/12/2019,Liverpool
+Man United,26/12/2019,Newcastle
+Sheffield,26/12/2019,Watford
+Tottenham,26/12/2019,Brighton
+Wolves,26/12/2019,Man City
+Arsenal,28/12/2019,Chelsea
+Brighton,28/12/2019,Bournemouth
+Burnley,28/12/2019,Man United
+Liverpool,28/12/2019,Wolves
+Man City,28/12/2019,Sheffield
+Newcastle,28/12/2019,Everton
+Norwich,28/12/2019,Tottenham
+Southampton,28/12/2019,Crystal Palace
+Watford,28/12/2019,Aston Villa
+West Ham,28/12/2019,Leicester
+Arsenal,01/01/2020,Man United
+Brighton,01/01/2020,Chelsea
+Burnley,01/01/2020,Aston Villa
+Liverpool,01/01/2020,Sheffield
+Man City,01/01/2020,Everton
+Newcastle,01/01/2020,Leicester
+Norwich,01/01/2020,Crystal Palace
+Southampton,01/01/2020,Tottenham
+Watford,01/01/2020,Wolves
+West Ham,01/01/2020,Bournemouth
+Aston Villa,11/01/2020,Man City
+Bournemouth,11/01/2020,Watford
+Chelsea,11/01/2020,Burnley
+Crystal Palace,11/01/2020,Arsenal
+Everton,11/01/2020,Brighton
+Leicester,11/01/2020,Southampton
+Man United,11/01/2020,Norwich
+Sheffield,11/01/2020,West Ham
+Tottenham,11/01/2020,Liverpool
+Wolves,11/01/2020,Newcastle
+Arsenal,18/01/2020,Sheffield
+Brighton,18/01/2020,Aston Villa
+Burnley,18/01/2020,Leicester
+Liverpool,18/01/2020,Man United
+Man City,18/01/2020,Crystal Palace
+Newcastle,18/01/2020,Chelsea
+Norwich,18/01/2020,Bournemouth
+Southampton,18/01/2020,Wolves
+Watford,18/01/2020,Tottenham
+West Ham,18/01/2020,Everton
+Aston Villa,21/01/2020,Watford
+Bournemouth,21/01/2020,Brighton
+Everton,21/01/2020,Newcastle
+Leicester,21/01/2020,West Ham
+Man United,21/01/2020,Burnley
+Sheffield,21/01/2020,Man City
+Wolves,21/01/2020,Liverpool
+Chelsea,22/01/2020,Arsenal
+Crystal Palace,22/01/2020,Southampton
+Tottenham,22/01/2020,Norwich
+Bournemouth,01/02/2020,Aston Villa
+Burnley,01/02/2020,Arsenal
+Crystal Palace,01/02/2020,Sheffield
+Leicester City,01/02/2020,Chelsea
+Liverpool,01/02/2020,Southampton
+Man United,01/02/2020,Wolves
+Newcastle,01/02/2020,Norwich
+Tottenham,01/02/2020,Man City
+Watford,01/02/2020,Everton
+West Ham,01/02/2020,Brighton
+Arsenal,08/02/2020,Newcastle
+Aston Villa,08/02/2020,Tottenham
+Brighton,08/02/2020,Watford
+Chelsea,08/02/2020,Man United
+Everton,08/02/2020,Crystal Palace
+Man City,08/02/2020,West Ham
+Norwich,08/02/2020,Liverpool
+Sheffield,08/02/2020,Bournemouth
+Southampton,08/02/2020,Burnley
+Wolves,08/02/2020,Leicester
+Arsenal,22/02/2020,Everton
+Burnley,22/02/2020,Bournemouth
+Chelsea,22/02/2020,Tottenham
+Crystal Palace,22/02/2020,Newcastle
+Leicester,22/02/2020,Man City
+Liverpool,22/02/2020,West Ham
+Man United,22/02/2020,Watford
+Sheffield,22/02/2020,Brighton
+Southampton,22/02/2020,Aston Villa
+Wolves,22/02/2020,Norwich
+Aston Villa,29/02/2020,Sheffield
+Bournemouth,29/02/2020,Chelsea
+Brighton,29/02/2020,Crystal Palace
+Everton,29/02/2020,Man United
+Man City,29/02/2020,Arsenal
+Newcastle,29/02/2020,Burnley
+Norwich,29/02/2020,Leicester
+Tottenham,29/02/2020,Wolves
+Watford,29/02/2020,Liverpool
+West Ham,29/02/2020,Southampton
+Arsenal,07/03/2020,West Ham
+Burnley,07/03/2020,Tottenham Hotspur
+Chelsea,07/03/2020,Everton
+Crystal Palace,07/03/2020,Watford
+Leicester,07/03/2020,Aston Villa
+Liverpool,07/03/2020,Bournemouth
+Man United,07/03/2020,Man City
+Sheffield,07/03/2020,Norwich
+Southampton,07/03/2020,Newcastle
+Wolves,07/03/2020,Brighton
+Aston Villa,14/03/2020,Chelsea
+Bournemouth,14/03/2020,Crystal Palace
+Brighton,14/03/2020,Arsenal
+Everton,14/03/2020,Liverpool
+Man City,14/03/2020,Burnley
+Newcastle,14/03/2020,Sheffield
+Norwich City,14/03/2020,Southampton
+Tottenham,14/03/2020,Man United
+Watford,14/03/2020,Leicester
+West Ham,14/03/2020,Wolves
+Burnley,21/03/2020,Watford
+Chelsea,21/03/2020,Man City
+Leicester,21/03/2020,Brighton
+Liverpool,21/03/2020,Crystal Palace
+Man United,21/03/2020,Sheffield
+Newcastle,21/03/2020,Aston Villa
+Norwich City,21/03/2020,Everton
+Southampton,21/03/2020,Arsenal
+Tottenham,21/03/2020,West Ham
+Wolves,21/03/2020,Bournemouth
+Arsenal,04/04/2020,Norwich City
+Aston Villa,04/04/2020,Wolves
+Bournemouth,04/04/2020,Newcastle
+Brighton,04/04/2020,Man United
+Crystal Palace,04/04/2020,Burnley
+Everton,04/04/2020,Leicester City
+Man City,04/04/2020,Liverpool
+Sheffield,04/04/2020,Tottenham
+Watford,04/04/2020,Southampton
+West Ham,04/04/2020,Chelsea
+Burnley,11/04/2020,Sheffield
+Chelsea,11/04/2020,Watford
+Leicester,11/04/2020,Crystal Palace
+Liverpool,11/04/2020,Aston Villa
+Man United,11/04/2020,Bournemouth
+Newcastle,11/04/2020,West Ham
+Norwich,11/04/2020,Brighton
+Southampton,11/04/2020,Man City
+Tottenham,11/04/2020,Everton
+Wolves,11/04/2020,Arsenal
+Arsenal,18/04/2020,Leicester
+Aston Villa,18/04/2020,Man United
+Bournemouth,18/04/2020,Tottenham
+Brighton,18/04/2020,Liverpool
+Crystal Palace,18/04/2020,Chelsea
+Everton,18/04/2020,Southampton
+Man City,18/04/2020,Newcastle
+Sheffield,18/04/2020,Wolves
+Watford,18/04/2020,Norwich
+West Ham,18/04/2020,Burnley
+Aston Villa,25/04/2020,Crystal Palace
+Bournemouth,25/04/2020,Leicester
+Brighton,25/04/2020,Man City
+Liverpool,25/04/2020,Burnley
+Manchester United,25/04/2020,Southampton
+Norwich City,25/04/2020,West Ham United
+Sheffield,25/04/2020,Chelsea
+Tottenham,25/04/2020,Arsenal
+Watford,25/04/2020,Newcastle
+Wolves,25/04/2020,Everton
+Arsenal,02/05/2020,Liverpool
+Burnley,02/05/2020,Wolves
+Chelsea,02/05/2020,Norwich
+Crystal Palace,02/05/2020,Man United
+Everton,02/05/2020,Aston Villa
+Leicester,02/05/2020,Sheffield
+Man City,02/05/2020,Bournemouth
+Newcastle,02/05/2020,Tottenham
+Southampton,02/05/2020,Brighton
+West Ham,02/05/2020,Watford
+Aston Villa,09/05/2020,Arsenal
+Bournemouth,09/05/2020,Southampton
+Brighton,09/05/2020,Newcastle
+Liverpool,09/05/2020,Chelsea
+Man United,09/05/2020,West Ham
+Norwich ,09/05/2020,Burnley
+Sheffield,09/05/2020,Everton
+Tottenham,09/05/2020,Leicester
+Watford,09/05/2020,Man City
+Wolves,09/05/2020,Crystal Palace
+Arsenal,17/05/2020,Watford
+Burnley,17/05/2020,Brighton
+Chelsea,17/05/2020,Wolves
+Crystal Palace,17/05/2020,Tottenham
+Everton,17/05/2020,AFC Bournemouth
+Leicester,17/05/2020,Man United
+Man City,17/05/2020,Norwich
+Newcastle,17/05/2020,Liverpool
+Southampton,17/05/2020,Sheffield
+West Ham,17/05/2020,Aston Villa
